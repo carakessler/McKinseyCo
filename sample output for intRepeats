@@ -1,0 +1,25 @@
+ORIGINAL ARRAY =   	int[] numArray = {43,42,2,6,42,5,23,8, 5, 2, 2, 8, 5, 6, 8, 8,42,43,2 };
+
+
+new-host-7:java carakessler$ javac intRepeats.java
+new-host-7:java carakessler$ java intRepeats
+2
+2
+2
+2
+8
+8
+8
+8
+5
+5
+5
+42
+42
+42
+6
+6
+43
+43
+23
+ 
