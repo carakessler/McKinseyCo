@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 public class intRepeats {
-  public static void main (String args[]){
+	public static void main (String args[]){
 		int[] numArray = {43,42,2,6,42,5,23,8, 5, 2, 2, 8, 5, 6, 8, 8,42,43,2 };
 		ArrayList number = new ArrayList();
 		ArrayList freq = new ArrayList();
